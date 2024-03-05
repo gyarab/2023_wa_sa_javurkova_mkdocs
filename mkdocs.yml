@@ -1,0 +1,11 @@
+site_name: Javurkova
+
+nav:
+  - Úvod: index.md
+  - Maturita PG: maturita.md
+  - Zápisky z WA: wa-hodina.md
+
+theme: dracula
+
+extra_css:
+  - style.css
